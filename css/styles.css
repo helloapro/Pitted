@@ -1,0 +1,53 @@
+body {
+  background-color: #B0FAC9;
+  font-family: 'Abel', sans-serif;
+  font-size: 32px;
+}
+
+.columns {
+  width: 45%;
+  height: 450px;
+  float: left;
+}
+
+.columns:hover{
+  background-color: #FF4944;
+}
+
+.columns2 {
+  width: 45%;
+  height: 450px;
+  float: left;
+  background-color: #FF4944;
+}
+
+.sidebar {
+  width: 35%;
+  float: right;
+  background-color: #FF4944;
+  margin-left: 10px;
+}
+
+.sidebar:hover{
+  background-color: blue;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+}
+
+h3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+img {
+  width: 15%;
+  margin-left: 2%;
+  border: 2px solid green;
+  padding: 4px;
+}
+
+img:hover{
+  display:
+}
