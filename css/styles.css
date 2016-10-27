@@ -1,7 +1,17 @@
 body {
-  background-color: #B0FAC9;
+  background-image: url("https://static.pexels.com/photos/137141/pexels-photo-137141.jpeg");
+  background-position: center;
+  background-size: contain;
   font-family: 'Abel', sans-serif;
   font-size: 32px;
+}
+
+.jumbotron {
+  background-color: rgba(255, 0, 0, 0.5);
+}
+
+.white {
+  color: white !important;
 }
 
 .columns {
@@ -32,17 +42,21 @@ body {
   background-color: blue;
 }
 
-h1 {
-  font-family: 'Pacifico', cursive;
+h1, h2, h3 {
+  font-family: 'Permanent Marker', san-serif;
+  color: white;
 }
 
-h3 {
-  margin-top: 20px;
-  margin-bottom: 20px;
+.black {
+  background-color: rgba(0,0,0,0.5);
+}
+
+.p-size {
+  font-size: 0.6em;
 }
 
 img {
-  width: 15%;
+  width: 100%;
   margin-left: 2%;
   border: 2px solid green;
   padding: 4px;
